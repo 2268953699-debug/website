@@ -1,0 +1,9 @@
+{
+  "name": "buddy-kawaii-responsive-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 3000"
+  },
+  "description": "Responsive pink kawaii two-person self-discipline tracker."
+}
